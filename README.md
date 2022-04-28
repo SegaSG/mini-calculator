@@ -1,1 +1,1 @@
-project mini-calculator: https://github.com/segasg/calculator/
+Project - Mini-calculator: https://segasg.github.io/mini-calculator/
